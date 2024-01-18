@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @am-ninnas
+- 👀 I’m interested in learning Elixir.
+- ⚡ Fun fact: I'm self-taught!
